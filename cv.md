@@ -1,5 +1,5 @@
 Dmitry Averkin
-Telegram: @Mitya_Fox
+Telegram/Discord: @Mitya_Fox
 
 About Me:
 Frontend developer with 2+ years of experience. Wrote in React and NodeJS. Worked in companies developing web studios and outsourcing. Wrote services to check the quality of cleanliness and compliance with the rules of operation of residential facilities. Parking lots for residential complexes - software development. Website for the sale of confectionery and related products. I attend thematic events to broaden my horizons and replenish socially significant connections. I am passionate about information technology and how it is transforming business.
